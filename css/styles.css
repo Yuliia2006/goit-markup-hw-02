@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -139,6 +139,7 @@ button {
 /* #region Section Our Team */
 
 .our-team {
+  background-color: #f4f4fd;
 }
 .our-team-title {
   font-weight: 700;
@@ -147,10 +148,12 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .our-team-list {
 }
 .our-team-item {
+  background-color: #ffffff;
 }
 .our-team-img {
 }
